@@ -2,7 +2,7 @@
 
 In this project, we try to build a movie recommendation system (binary) on movielens dataset using autoencoders. This project was done as a part of Deep Learning A-Z course on Udemy. In this project, I also explored using pytorch for developing the models.
 
-The Jupyter notebook with standard rnn model can be found [here](https://github.com/abishekarun/Autoencoder/blob/master/autoencoder.ipynb).
+The Jupyter notebook with autoencoder model can be found [here](https://github.com/abishekarun/Autoencoders/blob/master/autoencoder.ipynb).
 
 The resources that helped me are:
 
